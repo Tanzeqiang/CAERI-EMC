@@ -1,0 +1,5 @@
+IE:172.16.44.23
+name:lucy.huang
+pass:GZ034a
+domin:cn-sh-citrix
+international sales information system
